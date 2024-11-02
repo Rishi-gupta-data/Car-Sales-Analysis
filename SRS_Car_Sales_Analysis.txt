@@ -1,4 +1,3 @@
-srs_content_bolded = """
 Software Requirements Specification (SRS)
 =========================================
 
