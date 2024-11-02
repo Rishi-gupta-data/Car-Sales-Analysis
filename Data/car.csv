@@ -1,0 +1,51 @@
+Car Model,Manufacturer,Year,Sales Price,Units Sold
+Honda Civic,Honda,2020,20000,500
+Toyota Camry,Toyota,2021,25000,600
+Ford Mustang,Ford,2019,35000,400
+Chevrolet Silverado,Chevrolet,2020,40000,300
+BMW 3 Series,BMW,2021,45000,200
+Audi A4,Audi,2022,40000,250
+Mercedes-Benz E-Class,Mercedes-Benz,2019,50000,150
+Nissan Rogue,Nissan,2020,28000,450
+Hyundai Sonata,Hyundai,2022,23000,550
+Kia Sorento,Kia,2021,32000,350
+Toyota Corolla,Toyota,2020,22000,400
+Honda Accord,Honda,2022,28000,350
+Ford F-150,Ford,2021,40000,250
+Chevrolet Malibu,Chevrolet,2019,24000,450
+BMW 5 Series,BMW,2021,55000,180
+Audi Q5,Audi,2020,42000,200
+Mercedes-Benz C-Class,Mercedes-Benz,2022,52000,120
+Nissan Altima,Nissan,2019,26000,400
+Hyundai Elantra,Hyundai,2021,20000,550
+Kia Sportage,Kia,2020,30000,300
+Toyota RAV4,Toyota,2021,32000,400
+Honda CR-V,Honda,2019,28000,350
+Ford Explorer,Ford,2022,38000,250
+Chevrolet Equinox,Chevrolet,2020,28000,400
+BMW X3,BMW,2021,48000,150
+Audi A6,Audi,2022,50000,180
+Mercedes-Benz GLC,Mercedes-Benz,2019,55000,100
+Nissan Sentra,Nissan,2020,22000,400
+Hyundai Tucson,Hyundai,2021,26000,350
+Kia Optima,Kia,2022,30000,250
+Toyota Highlander,Toyota,2019,40000,300
+Honda Pilot,Honda,2020,35000,250
+Ford Edge,Ford,2021,32000,300
+Chevrolet Traverse,Chevrolet,2022,38000,200
+BMW X5,BMW,2020,60000,100
+Audi Q7,Audi,2019,55000,120
+Mercedes-Benz GLE,Mercedes-Benz,2021,65000,80
+Nissan Maxima,Nissan,2020,32000,250
+Hyundai Kona,Hyundai,2019,22000,450
+Kia Forte,Kia,2021,24000,400
+Toyota Tacoma,Toyota,2022,30000,300
+Honda Fit,Honda,2019,18000,500
+Ford Escape,Ford,2020,28000,350
+Chevrolet Camaro,Chevrolet,2021,45000,150
+BMW 7 Series,BMW,2022,80000,50
+Audi A8,Audi,2020,75000,70
+Mercedes-Benz S-Class,Mercedes-Benz,2019,90000,40
+Nissan Titan,Nissan,2021,40000,120
+Hyundai Santa Fe,Hyundai,2022,32000,200
+Kia Rio,Kia,2019,20000,400
